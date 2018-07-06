@@ -2,7 +2,7 @@
 
 namespace ActiveCampaign\Api\V1;
 
-class List_ extends ActiveCampaign
+class AC_List extends ActiveCampaign
 {
 
     public $version;
